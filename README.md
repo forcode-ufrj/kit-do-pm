@@ -32,6 +32,7 @@ manuais/          guia (00) e os 34 manuais, em PDF
 modelos/pdf/      os 34 modelos em PDF preenchível
 modelos/docx/     os 34 modelos em Word
 modelos/xlsx/     os 34 modelos em Excel
+modelos/pptx/     7 modelos também em PowerPoint (01, 03, 06, 11, 18, 21 e 31)
 ```
 
 | Formato | Quando usar |
@@ -39,39 +40,41 @@ modelos/xlsx/     os 34 modelos em Excel
 | **PDF** | Preencher direto no leitor de PDF (Acrobat, navegador, Okular…), sem instalar nada. Os campos são digitáveis. |
 | **Word** | Documentos com muito texto: TAP, escopo, planos e termos. Os campos "Clique aqui para digitar" e as caixas de seleção são clicáveis. |
 | **Excel** | Tabelas e cálculos. As planilhas trazem listas de escolha e fórmulas prontas: P×I dos riscos, estimativa PERT, caminho crítico, custos, valor agregado e barras do cronograma. Cada planilha tem a aba **Como preencher**. |
+| **PowerPoint** | Quadros e diagramas: os canvas, a árvore da EAP, o diagrama de rede, a matriz poder × interesse, a matriz de riscos e o relatório de status. Cada bloco tem espaço para digitar abaixo da dica, as setas ficam presas às caixas e há um post-it para duplicar. Só esses 7 modelos têm esta versão. |
 
-O nome do arquivo é o mesmo nos três formatos e no manual. Só muda a extensão.
+O nome do arquivo é o mesmo em todos os formatos e no manual. Só muda a extensão.
 
 **Fonte.** A identidade visual usa a fonte **Lexend**, gratuita no
 [Google Fonts](https://fonts.google.com/specimen/Lexend). Os PDFs e os arquivos
 Word já a trazem embutida. Para o Excel mostrar a Lexend, instale-a no
-computador. Sem ela, a planilha funciona normalmente, só que em outra fonte.
+computador. O mesmo vale para o PowerPoint. Sem ela, a planilha e os slides
+funcionam normalmente, só que em outra fonte.
 
 ## 🗂️ Os 34 documentos
 
 | Nº | Documento | Fase | Tipo | Modelo | Manual |
 |---|---|---|---|---|---|
-| 01 | Canvas de Ideação | Iniciação | complementar | [PDF](modelos/pdf/01_canvas_de_ideacao.pdf) · [Word](modelos/docx/01_canvas_de_ideacao.docx) · [Excel](modelos/xlsx/01_canvas_de_ideacao.xlsx) | [manual](manuais/01_canvas_de_ideacao.pdf) |
+| 01 | Canvas de Ideação | Iniciação | complementar | [PDF](modelos/pdf/01_canvas_de_ideacao.pdf) · [Word](modelos/docx/01_canvas_de_ideacao.docx) · [Excel](modelos/xlsx/01_canvas_de_ideacao.xlsx) · [PowerPoint](modelos/pptx/01_canvas_de_ideacao.pptx) | [manual](manuais/01_canvas_de_ideacao.pdf) |
 | 02 | Business Case | Iniciação | complementar | [PDF](modelos/pdf/02_business_case.pdf) · [Word](modelos/docx/02_business_case.docx) · [Excel](modelos/xlsx/02_business_case.xlsx) | [manual](manuais/02_business_case.pdf) |
-| 03 | Project Model Canvas | Iniciação | complementar | [PDF](modelos/pdf/03_project_model_canvas.pdf) · [Word](modelos/docx/03_project_model_canvas.docx) · [Excel](modelos/xlsx/03_project_model_canvas.xlsx) | [manual](manuais/03_project_model_canvas.pdf) |
+| 03 | Project Model Canvas | Iniciação | complementar | [PDF](modelos/pdf/03_project_model_canvas.pdf) · [Word](modelos/docx/03_project_model_canvas.docx) · [Excel](modelos/xlsx/03_project_model_canvas.xlsx) · [PowerPoint](modelos/pptx/03_project_model_canvas.pptx) | [manual](manuais/03_project_model_canvas.pdf) |
 | 04 | Termo de Abertura do Projeto (TAP) | Iniciação | **essencial** | [PDF](modelos/pdf/04_termo_de_abertura_do_projeto.pdf) · [Word](modelos/docx/04_termo_de_abertura_do_projeto.docx) · [Excel](modelos/xlsx/04_termo_de_abertura_do_projeto.xlsx) | [manual](manuais/04_termo_de_abertura_do_projeto.pdf) |
 | 05 | Registro de Premissas e Restrições | Iniciação | complementar | [PDF](modelos/pdf/05_registro_de_premissas_e_restricoes.pdf) · [Word](modelos/docx/05_registro_de_premissas_e_restricoes.docx) · [Excel](modelos/xlsx/05_registro_de_premissas_e_restricoes.xlsx) | [manual](manuais/05_registro_de_premissas_e_restricoes.pdf) |
-| 06 | Registro das Partes Interessadas | Iniciação | **essencial** | [PDF](modelos/pdf/06_registro_das_partes_interessadas.pdf) · [Word](modelos/docx/06_registro_das_partes_interessadas.docx) · [Excel](modelos/xlsx/06_registro_das_partes_interessadas.xlsx) | [manual](manuais/06_registro_das_partes_interessadas.pdf) |
+| 06 | Registro das Partes Interessadas | Iniciação | **essencial** | [PDF](modelos/pdf/06_registro_das_partes_interessadas.pdf) · [Word](modelos/docx/06_registro_das_partes_interessadas.docx) · [Excel](modelos/xlsx/06_registro_das_partes_interessadas.xlsx) · [PowerPoint](modelos/pptx/06_registro_das_partes_interessadas.pptx) | [manual](manuais/06_registro_das_partes_interessadas.pdf) |
 | 07 | Acordo da Equipe | Planejamento | complementar | [PDF](modelos/pdf/07_acordo_da_equipe.pdf) · [Word](modelos/docx/07_acordo_da_equipe.docx) · [Excel](modelos/xlsx/07_acordo_da_equipe.xlsx) | [manual](manuais/07_acordo_da_equipe.pdf) |
 | 08 | Documentação de Requisitos | Planejamento | **essencial** | [PDF](modelos/pdf/08_documentacao_de_requisitos.pdf) · [Word](modelos/docx/08_documentacao_de_requisitos.docx) · [Excel](modelos/xlsx/08_documentacao_de_requisitos.xlsx) | [manual](manuais/08_documentacao_de_requisitos.pdf) |
 | 09 | Matriz de Rastreabilidade de Requisitos | Planejamento | complementar | [PDF](modelos/pdf/09_matriz_de_rastreabilidade_de_requisitos.pdf) · [Word](modelos/docx/09_matriz_de_rastreabilidade_de_requisitos.docx) · [Excel](modelos/xlsx/09_matriz_de_rastreabilidade_de_requisitos.xlsx) | [manual](manuais/09_matriz_de_rastreabilidade_de_requisitos.pdf) |
 | 10 | Declaração do Escopo | Planejamento | **essencial** | [PDF](modelos/pdf/10_declaracao_do_escopo.pdf) · [Word](modelos/docx/10_declaracao_do_escopo.docx) · [Excel](modelos/xlsx/10_declaracao_do_escopo.xlsx) | [manual](manuais/10_declaracao_do_escopo.pdf) |
-| 11 | Estrutura Analítica do Projeto (EAP) | Planejamento | **essencial** | [PDF](modelos/pdf/11_eap.pdf) · [Word](modelos/docx/11_eap.docx) · [Excel](modelos/xlsx/11_eap.xlsx) | [manual](manuais/11_eap.pdf) |
+| 11 | Estrutura Analítica do Projeto (EAP) | Planejamento | **essencial** | [PDF](modelos/pdf/11_eap.pdf) · [Word](modelos/docx/11_eap.docx) · [Excel](modelos/xlsx/11_eap.xlsx) · [PowerPoint](modelos/pptx/11_eap.pptx) | [manual](manuais/11_eap.pdf) |
 | 12 | Dicionário da EAP | Planejamento | complementar | [PDF](modelos/pdf/12_dicionario_da_eap.pdf) · [Word](modelos/docx/12_dicionario_da_eap.docx) · [Excel](modelos/xlsx/12_dicionario_da_eap.xlsx) | [manual](manuais/12_dicionario_da_eap.pdf) |
 | 13 | Lista de Atividades | Planejamento | complementar | [PDF](modelos/pdf/13_lista_de_atividades.pdf) · [Word](modelos/docx/13_lista_de_atividades.docx) · [Excel](modelos/xlsx/13_lista_de_atividades.xlsx) | [manual](manuais/13_lista_de_atividades.pdf) |
 | 14 | Lista de Marcos | Planejamento | complementar | [PDF](modelos/pdf/14_lista_de_marcos.pdf) · [Word](modelos/docx/14_lista_de_marcos.docx) · [Excel](modelos/xlsx/14_lista_de_marcos.xlsx) | [manual](manuais/14_lista_de_marcos.pdf) |
 | 15 | Matriz RACI | Planejamento | complementar | [PDF](modelos/pdf/15_matriz_raci.pdf) · [Word](modelos/docx/15_matriz_raci.docx) · [Excel](modelos/xlsx/15_matriz_raci.xlsx) | [manual](manuais/15_matriz_raci.pdf) |
 | 16 | Requisitos e Calendário de Recursos | Planejamento | complementar | [PDF](modelos/pdf/16_requisitos_de_recursos.pdf) · [Word](modelos/docx/16_requisitos_de_recursos.docx) · [Excel](modelos/xlsx/16_requisitos_de_recursos.xlsx) | [manual](manuais/16_requisitos_de_recursos.pdf) |
 | 17 | Estimativa das Atividades | Planejamento | complementar | [PDF](modelos/pdf/17_estimativa_das_atividades.pdf) · [Word](modelos/docx/17_estimativa_das_atividades.docx) · [Excel](modelos/xlsx/17_estimativa_das_atividades.xlsx) | [manual](manuais/17_estimativa_das_atividades.pdf) |
-| 18 | Diagrama de Rede | Planejamento | complementar | [PDF](modelos/pdf/18_diagrama_de_rede.pdf) · [Word](modelos/docx/18_diagrama_de_rede.docx) · [Excel](modelos/xlsx/18_diagrama_de_rede.xlsx) | [manual](manuais/18_diagrama_de_rede.pdf) |
+| 18 | Diagrama de Rede | Planejamento | complementar | [PDF](modelos/pdf/18_diagrama_de_rede.pdf) · [Word](modelos/docx/18_diagrama_de_rede.docx) · [Excel](modelos/xlsx/18_diagrama_de_rede.xlsx) · [PowerPoint](modelos/pptx/18_diagrama_de_rede.pptx) | [manual](manuais/18_diagrama_de_rede.pdf) |
 | 19 | Cronograma do Projeto | Planejamento | **essencial** | [PDF](modelos/pdf/19_cronograma.pdf) · [Word](modelos/docx/19_cronograma.docx) · [Excel](modelos/xlsx/19_cronograma.xlsx) | [manual](manuais/19_cronograma.pdf) |
 | 20 | Plano da Qualidade | Planejamento | complementar | [PDF](modelos/pdf/20_plano_da_qualidade.pdf) · [Word](modelos/docx/20_plano_da_qualidade.docx) · [Excel](modelos/xlsx/20_plano_da_qualidade.xlsx) | [manual](manuais/20_plano_da_qualidade.pdf) |
-| 21 | Registro de Riscos | Planejamento | **essencial** | [PDF](modelos/pdf/21_registro_de_riscos.pdf) · [Word](modelos/docx/21_registro_de_riscos.docx) · [Excel](modelos/xlsx/21_registro_de_riscos.xlsx) | [manual](manuais/21_registro_de_riscos.pdf) |
+| 21 | Registro de Riscos | Planejamento | **essencial** | [PDF](modelos/pdf/21_registro_de_riscos.pdf) · [Word](modelos/docx/21_registro_de_riscos.docx) · [Excel](modelos/xlsx/21_registro_de_riscos.xlsx) · [PowerPoint](modelos/pptx/21_registro_de_riscos.pptx) | [manual](manuais/21_registro_de_riscos.pdf) |
 | 22 | Planilha de Custos do Projeto | Planejamento | **essencial** | [PDF](modelos/pdf/22_planilha_de_custos.pdf) · [Word](modelos/docx/22_planilha_de_custos.docx) · [Excel](modelos/xlsx/22_planilha_de_custos.xlsx) | [manual](manuais/22_planilha_de_custos.pdf) |
 | 23 | Plano de Comunicação | Planejamento | **essencial** | [PDF](modelos/pdf/23_plano_de_comunicacao.pdf) · [Word](modelos/docx/23_plano_de_comunicacao.docx) · [Excel](modelos/xlsx/23_plano_de_comunicacao.xlsx) | [manual](manuais/23_plano_de_comunicacao.pdf) |
 | 24 | Plano de Engajamento das Partes Interessadas | Planejamento | complementar | [PDF](modelos/pdf/24_plano_de_engajamento.pdf) · [Word](modelos/docx/24_plano_de_engajamento.docx) · [Excel](modelos/xlsx/24_plano_de_engajamento.xlsx) | [manual](manuais/24_plano_de_engajamento.pdf) |
@@ -81,7 +84,7 @@ computador. Sem ela, a planilha funciona normalmente, só que em outra fonte.
 | 28 | Registro de Lições Aprendidas | Execução | **essencial** | [PDF](modelos/pdf/28_registro_de_licoes_aprendidas.pdf) · [Word](modelos/docx/28_registro_de_licoes_aprendidas.docx) · [Excel](modelos/xlsx/28_registro_de_licoes_aprendidas.xlsx) | [manual](manuais/28_registro_de_licoes_aprendidas.pdf) |
 | 29 | Solicitação de Mudança | Monitoramento e Controle | **essencial** | [PDF](modelos/pdf/29_solicitacao_de_mudanca.pdf) · [Word](modelos/docx/29_solicitacao_de_mudanca.docx) · [Excel](modelos/xlsx/29_solicitacao_de_mudanca.xlsx) | [manual](manuais/29_solicitacao_de_mudanca.pdf) |
 | 30 | Registro de Mudanças | Monitoramento e Controle | **essencial** | [PDF](modelos/pdf/30_registro_de_mudancas.pdf) · [Word](modelos/docx/30_registro_de_mudancas.docx) · [Excel](modelos/xlsx/30_registro_de_mudancas.xlsx) | [manual](manuais/30_registro_de_mudancas.pdf) |
-| 31 | Relatório de Status do Projeto | Monitoramento e Controle | **essencial** | [PDF](modelos/pdf/31_relatorio_de_status.pdf) · [Word](modelos/docx/31_relatorio_de_status.docx) · [Excel](modelos/xlsx/31_relatorio_de_status.xlsx) | [manual](manuais/31_relatorio_de_status.pdf) |
+| 31 | Relatório de Status do Projeto | Monitoramento e Controle | **essencial** | [PDF](modelos/pdf/31_relatorio_de_status.pdf) · [Word](modelos/docx/31_relatorio_de_status.docx) · [Excel](modelos/xlsx/31_relatorio_de_status.xlsx) · [PowerPoint](modelos/pptx/31_relatorio_de_status.pptx) | [manual](manuais/31_relatorio_de_status.pdf) |
 | 32 | Relatório de Valor Agregado | Monitoramento e Controle | complementar | [PDF](modelos/pdf/32_relatorio_de_valor_agregado.pdf) · [Word](modelos/docx/32_relatorio_de_valor_agregado.docx) · [Excel](modelos/xlsx/32_relatorio_de_valor_agregado.xlsx) | [manual](manuais/32_relatorio_de_valor_agregado.pdf) |
 | 33 | Termo de Aceite de Entrega | Monitoramento e Controle | **essencial** | [PDF](modelos/pdf/33_termo_de_aceite_de_entrega.pdf) · [Word](modelos/docx/33_termo_de_aceite_de_entrega.docx) · [Excel](modelos/xlsx/33_termo_de_aceite_de_entrega.xlsx) | [manual](manuais/33_termo_de_aceite_de_entrega.pdf) |
 | 34 | Termo de Encerramento do Projeto | Encerramento | **essencial** | [PDF](modelos/pdf/34_termo_de_encerramento.pdf) · [Word](modelos/docx/34_termo_de_encerramento.docx) · [Excel](modelos/xlsx/34_termo_de_encerramento.xlsx) | [manual](manuais/34_termo_de_encerramento.pdf) |
